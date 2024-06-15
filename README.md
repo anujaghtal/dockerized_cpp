@@ -26,7 +26,7 @@ build-docker-deps-image        Build the deps image.
 
 ## Example
 
-An example of usage can be found in the repository ["Dockerized C/C++ Build Example"](https://github.com/f-squirrel/dockerized_cpp_build_example).
+An example of usage can be found in the repository dockerized_cpp_build_example["Dockerized C/C++ Build Example"](https://github.com/f-squirrel/).
 
 ## List of variables
 
